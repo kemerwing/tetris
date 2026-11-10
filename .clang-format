@@ -1,0 +1,6 @@
+BasedOnStyle: LLVM
+BreakBeforeBraces: Linux
+AllowShortFunctionsOnASingleLine: None
+UseTab: ForIndentation
+IndentWidth: 4
+TabWidth: 4
